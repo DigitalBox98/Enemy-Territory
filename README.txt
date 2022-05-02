@@ -39,6 +39,9 @@ package it.
 
 run scons from the src/ directory. see scons --help for build options
 
+To build a dedicated server, type :
+scons BUILD=release DEDICATED=1
+
 If any problems occur, consult the internet.
 
 Other platforms, updated source code, security issues:
