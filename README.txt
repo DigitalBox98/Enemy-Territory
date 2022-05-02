@@ -53,6 +53,12 @@ versions of the engine in various open source projects across the internet.
 Depending what is your interest with the source code, those may be a better
 starting point.
 
+Launching dedicated server on GNU/Linux x86:
+--------------------------------------------
+
+Put in the "etmain" all the files from the game distribution (pak*.pk3, server.cfg, etc) and launch the command : 
+./et +exec server.cfg
+
 
 LICENSE
 =======
