@@ -57,7 +57,7 @@ Launching dedicated server on GNU/Linux x86:
 --------------------------------------------
 
 Put in the "etmain" all the files from the game distribution (pak*.pk3, server.cfg, etc) and launch the command : 
-./et +exec etmain/server.cfg
+./et +exec server.cfg
 
 
 LICENSE
